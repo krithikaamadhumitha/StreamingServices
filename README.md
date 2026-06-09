@@ -17,3 +17,6 @@ Streaming services struggle with churn, fragmented personalization, and limited 
 - Personalized viewer experiences
 - Transparent engagement metrics
 - Stronger content governance
+
+## Project Artifacts
+Full Report (PDF): https://github.com/krithikaamadhumitha/StreamingServices/blob/main/Streaming%20Services.pdf
